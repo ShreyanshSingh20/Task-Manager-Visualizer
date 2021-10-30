@@ -1,0 +1,24 @@
+﻿"Top values of name.keyword","Top values of pid.keyword","Unique count of memory_usage.keyword"
+"brave.exe",10092,2
+"brave.exe",1040,2
+"brave.exe",13700,2
+"brave.exe",Other,17
+"Discord.exe",10428,2
+"Discord.exe",10652,2
+"Discord.exe",16716,2
+"Discord.exe",Other,6
+"RuntimeBroker.exe",9900,3
+"RuntimeBroker.exe",14864,2
+"RuntimeBroker.exe",6628,2
+"RuntimeBroker.exe",Other,3
+"pythonw.exe",2060,2
+"pythonw.exe",3248,2
+"pythonw.exe",10716,1
+"pythonw.exe",Other,3
+"explorer.exe",14900,2
+"explorer.exe",15372,2
+"explorer.exe",3640,2
+Other,10316,2
+Other,10524,2
+Other,11448,2
+Other,Other,18
